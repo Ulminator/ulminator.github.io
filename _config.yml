@@ -1,5 +1,5 @@
 # Site settings
-name: Matthew D. Ulmer
+name: Matthew Ulmer
 email: mulmer16@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Node.js, Java, Google Cloud, Data Engineer, API, Web Development, Agile, Pair Programming"
@@ -21,13 +21,19 @@ google_verify:
 bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 2196F3
-  primary-rgb: "33, 150, 243"
-  secondary: 285172
-  secondary-dark: 29455b
-  section-tout: eaf1f1
+# color:
+#   primary: 2196F3
+#   primary-rgb: "33, 150, 243"
+#   secondary: 285172
+#   secondary-dark: 29455b
+#   section-tout: eaf1f1
 
+color:
+  primary: 43C6B9
+  primary-rgb: "174, 66, 78"
+  secondary: "294A4C"
+  secondary-dark: "182C2D"
+  section-tout: eaf1f1
 
 
 # Build settings
