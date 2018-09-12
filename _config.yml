@@ -28,6 +28,8 @@ bing_verify:
 #   secondary-dark: 29455b
 #   section-tout: eaf1f1
 
+# Great for color scheme help (https://coolors.co/)
+
 color:
   primary: 43C6B9
   primary-rgb: "174, 66, 78"
