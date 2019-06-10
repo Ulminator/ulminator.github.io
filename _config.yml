@@ -1,5 +1,5 @@
 # Site settings
-name: Matthew Ulmer
+name: Matthew Ulmer (This Page is a WIP)
 email: mulmer16@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Node.js, Java, Google Cloud, Data Engineer, API, Web Development, Agile, Pair Programming"
@@ -10,7 +10,7 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/matthew-ulmer-b3140570/
+    url: https://www.linkedin.com/in/matthew-ulmer/
   - title: github
     url: https://github.com/Ulminator
     
