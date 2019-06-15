@@ -1,8 +1,8 @@
 # Site settings
-name: Matthew Ulmer (This Page is a WIP)
+name: Matthew Ulmer
 email: mulmer16@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Node.js, Java, Google Cloud, Data Engineer, API, Web Development, Agile, Pair Programming"
+keywords: "Software Engineer, Data Engineer, Backend Engineer, GCP, Google Cloud, Data Pipeline, Java, Node.js, Agile, Pair Programming"
 skills: "Software Engineer at The Home Depot"
 baseurl:
 
