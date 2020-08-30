@@ -13,7 +13,19 @@ social:
     url: https://www.linkedin.com/in/matthew-ulmer/
   - title: github
     url: https://github.com/Ulminator
-    
+
+links:
+  companies:
+    fanai: https://fanai.io
+    thd: https://www.homedepot.com
+  education:
+    emory: https://www.emory.edu
+  certifications:
+    gcp: https://www.credential.net/41e63b14-6fb9-49c4-b864-a310cf3b2dfc
+  internships:
+    sfl: https://sflscientific.com
+    vichf: https://nsf-cchf.com/vichf/vic-hf-ireu-international-research-experience-for-undergraduates
+
 # Google webmaster tools
 google_verify:
 
