@@ -16,3 +16,38 @@ GitHub Pages (as a Jekyll page).
 ## Jekyll
 
 For more details on Jekyll, read the [documentation](http://jekyllrb.com/).
+
+## Setup
+
+1. Ensure `rbenv` is installed:
+
+```
+brew install rbenv
+```
+
+2. Update `~/.zshrc` with `eval "$(rbenv init -)"`
+
+3. Install correct version of ruby:
+
+```
+rbenv install 2.7.1
+```
+
+4. Install bundler:
+
+```
+gem install bundler
+bundle update --bundler
+```
+
+5. Install deps:
+
+```
+bundle install
+```
+
+6. Start the app:
+
+```
+bundle exec jekyll serve --livereload
+```

@@ -1,9 +1,9 @@
 # Site settings
 name: Matthew Ulmer
-email: mulmer16@gmail.com
+email: matt.d.ulmer@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Data Engineer, Backend Engineer, GCP, Google Cloud, Data Pipeline, Java, Node.js, Agile, Pair Programming"
-skills: "Software Engineer at The Home Depot"
+keywords: "Software Engineer, Data Engineer, Backend Engineer, GCP, Google Cloud, ETL, Data Pipeline, Python, Java, Node.js, Agile, Pair Programming"
+skills: "Backend/Data Engineer at FanAI"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -13,7 +13,27 @@ social:
     url: https://www.linkedin.com/in/matthew-ulmer/
   - title: github
     url: https://github.com/Ulminator
-    
+
+links:
+  companies:
+    fanai:
+      url: https://fanai.io
+      backend: https://medium.com/fanai-engineering/the-backend-tech-stack-at-fanai-b48b4a61de19
+    thd:
+      url: https://www.homedepot.com
+      award: "../img/teamAward.jpg"
+  education:
+    emory: https://www.emory.edu
+  certifications:
+    gcp: https://www.credential.net/41e63b14-6fb9-49c4-b864-a310cf3b2dfc
+  internships:
+    sfl: https://sflscientific.com
+    simbiosys: https://simbiosys.mathcs.emory.edu/
+    vichf: https://nsf-cchf.com/vichf/vic-hf-ireu-international-research-experience-for-undergraduates
+  football:
+    max_preps: https://www.maxpreps.com/athlete/matt-ulmer/hVjr8vTxEeKZ5AAmVebBJg/default.htm
+    award: "../img/footballAward.jpg"
+
 # Google webmaster tools
 google_verify:
 
@@ -41,3 +61,7 @@ color:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+exclude:
+  - .jekyll-cache
