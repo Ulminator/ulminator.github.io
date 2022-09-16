@@ -33,21 +33,14 @@ brew install rbenv
 rbenv install 2.7.1
 ```
 
-4. Install bundler:
+4. Setup dev environment
 
 ```
-gem install bundler
-bundle update --bundler
+make init
 ```
 
-5. Install deps:
+5. Run it
 
 ```
-bundle install
-```
-
-6. Start the app:
-
-```
-bundle exec jekyll serve --livereload
+make serve
 ```
